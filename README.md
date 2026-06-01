@@ -1,140 +1,74 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="140" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
-###
 
 <h1 align="center">Daniel Oluwafemi Olofin</h1>
 
 <h3 align="center">
-Computational Biostatistics • Machine Learning in Healthcare • Computational Oncology
+Computational Biostatistics • Machine Learning • Computational Oncology
 </h3>
 
 <p align="center">
-Master’s in Statistics | Incoming Doctoral Researcher in Biostatistics
+MSc Statistics | Biostatistics & AI in Healthcare Researcher
 </p>
 
-###
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/Olofin-daniel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+## 🧠 Research Focus
 
-  <a href="https://github.com/Olofin98">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+I work at the intersection of **biostatistics, machine learning, and computational oncology**, with a focus on developing statistically rigorous methods for understanding and predicting complex biomedical systems.
 
-  <a href="mailto:olofindantit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+My work emphasizes:
 
-  <a href="https://olofindata.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</div>
+- Statistical learning for clinical and biological data  
+- Survival analysis and disease progression modeling  
+- AI for precision medicine and oncology  
+- Real-world clinical data analytics (EHR systems)  
 
 ---
 
-## 📌 Research Profile
+## 🔬 Current Research Interests
 
-I am a computational biostatistician-in-training focused on developing **statistical and machine learning methods for biomedical and clinical data analysis**, with emphasis on oncology and precision medicine.
-
-My research sits at the intersection of:
-
-- Biostatistics & Statistical Inference  
-- Machine Learning & Deep Learning  
-- Computational Biology & Oncology  
-- Clinical Data Science & Real-World Evidence  
-- Precision Medicine & Health AI Systems  
-
----
-
-## 🔬 Research Interests
-
-- Computational Oncology & Cancer Evolution Modeling  
-- Survival Analysis & Time-to-Event Modeling  
-- Clinical Trial Design & Adaptive Methods  
-- Multi-Omics Data Integration  
-- Causal Inference in Healthcare Systems  
-- Explainable AI for Clinical Decision Support  
-- Electronic Health Records (EHR) Analytics  
+- Computational Oncology & Cancer Dynamics  
+- Survival & Longitudinal Data Modeling  
+- Clinical Trial Design & Evaluation  
+- Multi-omics & High-dimensional Data Integration  
+- Explainable AI in Healthcare  
+- Causal Inference in Biomedical Systems  
 
 ---
 
 ## 🧪 Research Experience
 
-**Moffitt Cancer Center — Computational Oncology Research Intern**  
-- Worked on computational modeling of cancer systems  
-- Applied statistical learning methods to biomedical datasets  
-- Focused on translational cancer research and data-driven oncology insights  
+**Computational Oncology Research Intern — Moffitt Cancer Center**  
+Applied statistical and machine learning methods to cancer data modeling and translational oncology research.
 
-**Georgia Southern University — Graduate Research Assistant**  
-- Statistical modeling and applied probability research  
-- Support in biomedical and public health data analysis  
-- Development of reproducible analytical pipelines  
+**Graduate Research Assistant — Georgia Southern University**  
+Worked on statistical modeling, probability theory applications, and biomedical data analysis pipelines.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** R • Python • SQL  
+
+**Methods:** Survival Analysis • Bayesian Modeling • Machine Learning • Time Series  
+
+**Tools:** PyTorch • scikit-learn • ggplot2 • Shiny • Git • Jupyter  
 
 ---
 
 ## 🎓 Academic Identity
 
-- Master’s in Statistics — Georgia Southern University  
+- MSc in Statistics — Georgia Southern University  
 - PATHS Scholar — Yale School of Medicine  
 - Emerging Leaders in AI Scholar — Black in AI  
-- Reviewer / Contributor in computational and statistical research domains  
-- Training focus: Biostatistics, Machine Learning, Computational Biology  
-
----
-
-## 📊 Technical Stack
-
-### Statistical & Scientific Computing
-- R (tidyverse, ggplot2, Shiny, survival, lme4)
-- Python (NumPy, Pandas, SciPy, scikit-learn)
-- SQL for structured biomedical data
-
-### Machine Learning & AI
-- PyTorch
-- TensorFlow
-- XGBoost / Gradient Boosting
-- Survival Models & Neural Networks
-
-### Research Tools
-- Git & GitHub
-- Linux
-- Jupyter / RStudio
-- Data visualization & reproducible research pipelines
-
----
-
-## 🧠 Current Work
-
-- Cancer progression modeling using statistical learning  
-- Machine learning for clinical risk prediction  
-- Survival analysis in oncology datasets  
-- EHR-based predictive modeling systems  
-- AI methods for personalized medicine  
-
----
-
-
-## 🔥 Research Philosophy
-
-> “The goal of statistical learning in medicine is not prediction alone, but understanding systems well enough to improve human health.”
-
----
-
-## ⚡ Professional Focus
-
-- Translating complex biomedical data into interpretable models  
-- Bridging statistical theory with clinical applications  
-- Advancing reproducible and ethical AI in healthcare  
-- Building tools for precision medicine and cancer research  
+- Focus: Biostatistics • Computational Biology • AI in Healthcare  
 
 ---
 
 ## 📬 Contact
 
 - Email: olofindantit@gmail.com  
-- Portfolio: https://olofin98.github.io/Daniel.github.io/ 
-- LinkedIn: Daniel Olofin  
+- GitHub: https://github.com/Olofin98  
+- Portfolio: https://olofin98.github.io/Daniel.github.io/
